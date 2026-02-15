@@ -1,74 +1,47 @@
+⚽ Projeto Mulheres na Quadra
+Status do Projeto: 🚀 Em desenvolvimento (Fase Front-end)
 
-# ⚽ Mulheres na Quadra 
+Link para o site: Acesse aqui o Projeto Online
 
+✨ Sobre o Projeto
+Este projeto foi criado para dar visibilidade aos talentos e conectar mulheres em suas diferentes vivências no esporte! O Mulheres na Quadra é uma plataforma que une a paixão pelo futebol com a tecnologia para criar oportunidades reais.
 
+🎯 Objetivo do Projeto
+Visibilidade: Apresentar a história de mulheres que enfrentam desafios no esporte.
 
-## ✨ Sobre Projeto Mulheres na Quadra
- 
+Portfólio Ativo: Compartilhar fotos e vídeos reais das atletas em ação.
 
-Este projeto foi criado para **dar visibilidade aos talentos**, e para conectar mulheres em suas diferentes vivências!
+Inspiração: Incentivar novas gerações a ocuparem espaços no futebol.
 
----
+Networking: Conectar talentos a oportunidades profissionais.
 
-## 🎯 Objetivo do Projeto
+🛠️ Tecnologias Utilizadas
+Como entusiasta de tecnologia e futura desenvolvedora Full Stack Java, utilizei as seguintes ferramentas neste projeto:
 
-- Apresentar o talento e a história de mulheres que enfrentam desafios
-- Compartilhar fotos e vídeos reais das mulheres em ação
-- Inspirar outras meninas a seguirem seus sonhos no esporte
-- Conectar mais mulheres à oportunidades profissionais no futebol
+HTML5: Estruturação semântica do conteúdo.
 
----
+CSS3: Estilização personalizada e design responsivo.
 
-## 📸 Galeria
+Bootstrap 5: Framework para componentes modernos (como a Navbar e Modais de vídeo).
 
-Acesse a seção **Galeria** da página para ver mulheres em campo, mostrando suas habilidades, postura, espírito de equipe e paixão pelo futebol.
+Git & GitHub: Controle de versão e hospedagem.
 
----
+Próximos Passos (Back-end): Em breve, o projeto contará com integração em Java com Spring Boot para gerenciamento de banco de dados das inscrições das atletas.
 
-## 🎥 Vídeos
+📸 Destaques da Plataforma
+Galeria: Seção dedicada a mostrar habilidades, postura e espírito de equipe.
 
-Veja vídeos reais de mulheres jogando, treinando e evoluindo como atleta. O material audiovisual foi pensado para mostrar:
+Vídeos: Material audiovisual focado em técnicas de passe, domínio e liderança.
 
-- Técnicas de passe e finalização  
-- Domínio de bola e leitura de jogo  
-- Participação coletiva e espírito de liderança
+Depoimentos: Espaço de voz para as atletas, como a jogadora Salas.
 
----
+📬 Contato & Apoio
+Entre em contato para apoiar ou conhecer mais sobre o projeto:
 
-## 💬 Depoimento
+✉️ Email: contato@mulheresnaquadra.com
 
-> "O futebol me ensinou que, com coragem e dedicação, uma oportunidade pode mudar tudo. Quero jogar em um time que acredite no meu potencial."  
-> — **Salas**
+📸 Instagram: @mulheresnaquadra
 
----
+📍 Local: Mogi das Cruzes, SP - Brasil
 
-## 📌 Como ajudar?
-
-Você pode ajudar o Projeto Mulheres na Quadra acompanhando nossas ações:
-
-- 📢 **Compartilhando** este projeto nas redes sociais
-- 📧 **Entrando em contato** conosco (veja abaixo)
-
----
-
-## 📬 Contato
-
-Entre em contato para apoiar, e conhecer mais sobre o projeto:
-
-- ✉️ Email: [contato@mulheresnaquadra.com](mailto:contato@mulheresnaquadra.com)
-- 📸 Instagram: [@mulheresnaquadra](https://instagram.com/mulheres_na_quadra) *(exemplo)*
-- 📍 Local: [Sua cidade ou estado aqui]
-
----
-
-## ❤️ Agradecimentos
-
-Agradecemos a todos que acreditam nos sonhos das mulheres no esporte e trabalham por um futebol mais justo, diverso e feminino.
-
-> ✊ Porque talento não tem gênero.  
-> 👟 Porque lugar de mulher também é na quadra.
-
----
-
-**#MulheresNaQuadra • #Juntas • #FutebolFeminino • #TalentoBrasileiro**
-
+✊ Porque talento não tem gênero. Lugar de mulher também é na quadra.
