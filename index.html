@@ -1,1 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Projeto Mulheres na Quadra</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <style>
+    body {
+      scroll-behavior: smooth;
+    }
+    .hero {
+      background-color: aqua;
+      color: white;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      position: relative;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.6);
+    }
+    .hero-content {
+      position: relative;
+      z-index: 1;
+    }
+    .section-title {
+      margin-top: 60px;
+      margin-bottom: 30px;
+      font-weight: bold;
+    }
+    footer {
+      background-color: rgb(16, 83, 83);
+      color: #ccc;
+      padding: 20px 0;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
 
+  <!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="#" data-bs-toggle="modal" data-bs-target="#videoModal">
+            Exemplos de craques
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="#home">Início</a></li>
+                <li class="nav-item"><a class="nav-link" href="#galeria">Galeria</a></li>
+                <li class="nav-item"><a class="nav-link" href="#videos">Vídeos</a></li>
+                <li class="nav-item"><a class="nav-link" href="#sobre">Sobre</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="modal fade" id="videoModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-md">
+        <div class="modal-content bg-dark text-white">
+            <div class="modal-header border-0">
+                <h5 class="modal-title">Mulheres na Quadra - Craques</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-0 position-relative">
+               <video width="100%" controls autoplay loop muted style="max-height: 70vh; display: block;">
+    <source src="img/maria_eduarda_jogando.MP4" type="video/mp4">
+    Seu navegador não suporta vídeos.
+</video>
+                <div class="position-absolute bottom-0 end-0 m-3 px-2 py-1 bg-black bg-opacity-75 rounded" 
+                     style="font-size: 0.8rem; z-index: 10;">
+                    Créditos: Imagens Sesc
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+  <!-- Hero / Apresentação -->
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h1 class="display-4">Projeto mulheres na quadra</h1>
+      <p class="lead">Uma oportunidade muda vidas.</p>
+      <a href="#galeria" class="btn btn-primary btn-lg mt-3">Conheça Mais</a>
+    </div>
+  </section>
+
+  <!-- Galeria de Imagens -->
+  <section id="galeria" class="container">
+    <h2 class="section-title text-center">Galeria</h2>
+    <div class="row g-4">
+      <div class="col-md-3"><img src="img/time_sesc.jpeg" alt="Time Sesc" class="img-fluid rounded"></div>
+      <div class="col-md-3"><img src="img/maria_eduarda2.png" alt="Maria Eduarda jogando" class="img-fluid rounded"></div>
+      <div class="col-md-3"><img src="img/IMG_1619.jpeg" alt="Foto de jogadoras" class="img-fluid rounded"></div>
+      <div class="col-md-3"><img src="img/IMG_1839.jpeg" alt="Mais jogadoras..." class="img-fluid rounded"></div>
+  </section>
+
+  <!-- Vídeos -->
+  <section id="videos" class="container mt-5">
+    <h2 class="section-title text-center">Vídeos</h2>
+    <div class="row g-4">
+      <div class="col-md-6">
+        <div class="ratio ratio-16x9">
+          <iframe src="img/maria_eduarda_jogando.MP4" 
+          title="Maria Eduarda marcando gol" allowfullscreen></iframe>
+          
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="ratio ratio-16x9">
+          <iframe src="img/maria_eduarda_jogando.MP4" title="Vídeo 2" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Sobre -->
+  <section id="sobre" class="container mt-5">
+    <h2 class="section-title text-center">Sobre o Projeto</h2>
+    <p class="lead text-center">
+      “Projeto Mulheres na Quadra: Celebrando o talento e 
+      ampliando a voz de quem faz história no futebol feminino.
+       Acreditamos que o campo é lugar de todas e que a 
+       representatividade transforma sonhos em realidade. Sempre,
+       uma nova experiência. Acompanhe nossa jornada nas redes sociais!”
+    </p>
+  </section>
+
+  <!-- Contato / Footer -->
+  <section id="contato" class="container mt-5 mb-4">
+    <h2 class="section-title text-center">Fale Conosco</h2>
+    <p class="text-center">Siga nossas redes sociais e entre em contato:</p>
+    <div class="d-flex justify-content-center gap-4 mb-4">
+      <a href="#" class="btn btn-outline-light bg-dark">Instagram</a>
+      <a href="#" class="btn btn-outline-light bg-dark">Facebook</a>
+      <a href="#" class="btn btn-outline-light bg-dark">Email</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Mulheres na Quadra. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
