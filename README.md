@@ -1,34 +1,33 @@
-# maria_eduarda
-# ⚽ Mulheres na Quadra - Maria Eduarda
 
-<img src="img/maria-eduarda.png" alt="Maria Eduarda jogando futebol" width="100%" />
+# ⚽ Mulheres na Quadra 
 
-## ✨ Sobre Maria Eduarda
 
-**Maria Eduarda** é uma jovem atleta apaixonada por futebol desde a infância. Determinada, dedicada e com um talento natural para o esporte, ela sonha em jogar profissionalmente e representar outras meninas que também querem conquistar seu espaço no futebol.
 
-Este projeto foi criado para **dar visibilidade ao talento de Maria Eduarda**, e para conectar essa jovem promessa com oportunidades reais em **clubes, escolinhas, projetos sociais e olheiros esportivos**.
+## ✨ Sobre Projeto Mulheres na Quadra
+ 
+
+Este projeto foi criado para **dar visibilidade aos talentos**, e para conectar mulheres em suas diferentes vivências!
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-- Apresentar o talento e a história de Maria Eduarda
-- Compartilhar fotos e vídeos reais da atleta em ação
+- Apresentar o talento e a história de mulheres que enfrentam desafios
+- Compartilhar fotos e vídeos reais das mulheres em ação
 - Inspirar outras meninas a seguirem seus sonhos no esporte
-- Conectar Maria Eduarda a oportunidades profissionais no futebol
+- Conectar mais mulheres à oportunidades profissionais no futebol
 
 ---
 
 ## 📸 Galeria
 
-Acesse a seção **Galeria** da página para ver Maria Eduarda em campo, mostrando suas habilidades, postura, espírito de equipe e paixão pelo futebol.
+Acesse a seção **Galeria** da página para ver mulheres em campo, mostrando suas habilidades, postura, espírito de equipe e paixão pelo futebol.
 
 ---
 
 ## 🎥 Vídeos
 
-Veja vídeos reais da Maria Eduarda jogando, treinando e evoluindo como atleta. O material audiovisual foi pensado para mostrar:
+Veja vídeos reais de mulheres jogando, treinando e evoluindo como atleta. O material audiovisual foi pensado para mostrar:
 
 - Técnicas de passe e finalização  
 - Domínio de bola e leitura de jogo  
@@ -39,27 +38,25 @@ Veja vídeos reais da Maria Eduarda jogando, treinando e evoluindo como atleta. 
 ## 💬 Depoimento
 
 > "O futebol me ensinou que, com coragem e dedicação, uma oportunidade pode mudar tudo. Quero jogar em um time que acredite no meu potencial."  
-> — **Maria Eduarda**
+> — **Salas**
 
 ---
 
 ## 📌 Como ajudar?
 
-Você pode ajudar a Maria Eduarda a conquistar seu sonho:
+Você pode ajudar o Projeto Mulheres na Quadra acompanhando nossas ações:
 
 - 📢 **Compartilhando** este projeto nas redes sociais
-- ⚽ **Indicando** para clubes, projetos sociais ou olheiros
-- 🤝 **Apoiando** com patrocínio, doações ou materiais esportivos
 - 📧 **Entrando em contato** conosco (veja abaixo)
 
 ---
 
 ## 📬 Contato
 
-Entre em contato para apoiar, agendar testes ou conhecer mais sobre Maria Eduarda:
+Entre em contato para apoiar, e conhecer mais sobre o projeto:
 
 - ✉️ Email: [contato@mulheresnaquadra.com](mailto:contato@mulheresnaquadra.com)
-- 📸 Instagram: [@mariaeduarda_fut](https://instagram.com/mariaeduarda_fut) *(exemplo)*
+- 📸 Instagram: [@mariaeduarda_fut](https://instagram.com/mulheres_na_quadra) *(exemplo)*
 - 📍 Local: [Sua cidade ou estado aqui]
 
 ---
@@ -73,5 +70,5 @@ Agradecemos a todos que acreditam nos sonhos das mulheres no esporte e trabalham
 
 ---
 
-**#MulheresNaQuadra • #MariaEduarda • #FutebolFeminino • #TalentoBrasileiro**
+**#MulheresNaQuadra • #Juntas • #FutebolFeminino • #TalentoBrasileiro**
 
