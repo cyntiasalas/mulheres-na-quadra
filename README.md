@@ -56,7 +56,7 @@ Você pode ajudar o Projeto Mulheres na Quadra acompanhando nossas ações:
 Entre em contato para apoiar, e conhecer mais sobre o projeto:
 
 - ✉️ Email: [contato@mulheresnaquadra.com](mailto:contato@mulheresnaquadra.com)
-- 📸 Instagram: [@mariaeduarda_fut](https://instagram.com/mulheres_na_quadra) *(exemplo)*
+- 📸 Instagram: [@mulheresnaquadra](https://instagram.com/mulheres_na_quadra) *(exemplo)*
 - 📍 Local: [Sua cidade ou estado aqui]
 
 ---
