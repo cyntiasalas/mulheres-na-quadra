@@ -1,47 +1,43 @@
-⚽ Projeto Mulheres na Quadra
-Status do Projeto: 🚀 Em desenvolvimento (Fase Front-end)
+# ⚽ Projeto Mulheres na Quadra
 
-Link para o site: Acesse aqui o Projeto Online
+**Status do Projeto:** 🚀 Em desenvolvimento (Fase Front-end Interativo)
 
-✨ Sobre o Projeto
+Link para o site: [Acesse aqui o Projeto Online](https://cyntiasalas.github.io/mulheres-na-quadra/)
+
+## ✨ Sobre o Projeto
 Este projeto foi criado para dar visibilidade aos talentos e conectar mulheres em suas diferentes vivências no esporte! O Mulheres na Quadra é uma plataforma que une a paixão pelo futebol com a tecnologia para criar oportunidades reais.
 
-🎯 Objetivo do Projeto
-Visibilidade: Apresentar a história de mulheres que enfrentam desafios no esporte.
+## 🎯 Objetivo do Projeto
+* **Visibilidade:** Apresentar a história de mulheres que enfrentam desafios no esporte.
+* **Portfólio Ativo:** Compartilhar fotos e vídeos reais das atletas em ação.
+* **Inspiração:** Incentivar novas gerações a ocuparem espaços no futebol.
+* **Networking:** Conectar talentos a oportunidades profissionais.
+* **Inovação:** Facilitar o atendimento através de um Agente Virtual integrado.
 
-Portfólio Ativo: Compartilhar fotos e vídeos reais das atletas em ação.
-
-Inspiração: Incentivar novas gerações a ocuparem espaços no futebol.
-
-Networking: Conectar talentos a oportunidades profissionais.
-
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Como entusiasta de tecnologia e futura desenvolvedora Full Stack Java, utilizei as seguintes ferramentas neste projeto:
 
-HTML5: Estruturação semântica do conteúdo.
+* **HTML5:** Estruturação semântica e acessibilidade.
+* **CSS3:** Estilização personalizada, design responsivo e efeitos de interface.
+* **JavaScript (Vanilla):** Lógica do **Chatbot (Agente Virtual)** para respostas automáticas e interatividade.
+* **Bootstrap 5:** Framework para componentes modernos (Navbar fixa, Modais de vídeo e sistema de grids).
+* **Git & GitHub:** Controle de versão e hospedagem.
 
-CSS3: Estilização personalizada e design responsivo.
+> **Próximos Passos (Back-end):** Em breve, o projeto contará com integração em **Java com Spring Boot** para gerenciamento de banco de dados das inscrições das atletas.
 
-Bootstrap 5: Framework para componentes modernos (como a Navbar e Modais de vídeo).
+## 📸 Destaques da Plataforma
+* **Agente Virtual:** Chatbot inteligente que responde dúvidas sobre horários, inscrições e locais.
+* **Exemplos de Craques:** Modal interativo que exibe vídeos das atletas (como a Maria Eduarda) diretamente na tela inicial.
+* **Galeria:** Seção dedicada a mostrar habilidades, postura e espírito de equipe.
+* **Vídeos:** Material audiovisual focado em técnicas de passe, domínio e liderança.
+* **Sobre:** Manifesto de valorização da representatividade feminina no campo.
 
-Git & GitHub: Controle de versão e hospedagem.
-
-Próximos Passos (Back-end): Em breve, o projeto contará com integração em Java com Spring Boot para gerenciamento de banco de dados das inscrições das atletas.
-
-📸 Destaques da Plataforma
-Galeria: Seção dedicada a mostrar habilidades, postura e espírito de equipe.
-
-Vídeos: Material audiovisual focado em técnicas de passe, domínio e liderança.
-
-Depoimentos: Espaço de voz para as atletas, como a jogadora Salas.
-
-📬 Contato & Apoio
+## 📬 Contato & Apoio
 Entre em contato para apoiar ou conhecer mais sobre o projeto:
 
-✉️ Email: contato@mulheresnaquadra.com
+* ✉️ **Email:** contato@mulheresnaquadra.com
+* 📸 **Instagram:** @mulheresnaquadra
+* 📍 **Local:** Mogi das Cruzes, SP - Brasil
 
-📸 Instagram: @mulheresnaquadra
-
-📍 Local: Mogi das Cruzes, SP - Brasil
-
-✊ Porque talento não tem gênero. Lugar de mulher também é na quadra.
+---
+✊ *Porque talento não tem gênero. Lugar de mulher também é na quadra.*
